@@ -10,7 +10,7 @@ snake-game:https://www.google.com/search?q=snake+game
 - ゲーム画面をスクリーンショットでデータを集める（get_data.ipynb)
 - ゲーム画面をVOTTでアノテーションし、PascalVOC形式で出力
 - PascalVOC形式->YOLO形式に変換（get_data.ipynb)
-- YOLOv5を使って学習（<-精度がよくなかったためここで頓挫中
+- YOLOv5を使って学習（YOLO.ipynb）<-精度がよくなかったためここで頓挫中
 - リアルタイムでゲーム画面を読み取りYOLOの出力結果の物体の位置情報をDQNの入力とし、DQNを学習
 - 
 
