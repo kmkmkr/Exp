@@ -14,3 +14,7 @@ snake-game:https://www.google.com/search?q=snake+game
 - リアルタイムでゲーム画面を読み取りYOLOの出力結果の物体の位置情報をDQNの入力とし、DQNを学習
 - 
 
+YOLO　結果
+
+![image](https://user-images.githubusercontent.com/75050667/197116779-cac56554-5a66-447f-afdc-3166eacacd80.png)
+
